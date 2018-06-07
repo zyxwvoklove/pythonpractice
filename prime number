@@ -1,0 +1,11 @@
+"""
+This is for learning python program.
+ Build at 7th June.
+   === by ccL @ Mohw === 
+
+"""
+
+for i in range (2;n) :
+  if n % i == 0 :
+  print ("fuck you! this is not")
+  elif print (n) :
