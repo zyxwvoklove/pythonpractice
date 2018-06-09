@@ -5,7 +5,7 @@ This is for learning python program.
 
 """
 
-for i in range (2;n) :
+for i in range (2,n) :
 # % 在python中是餘數的意思。
   if n % i == 0 :
   print ("fuck you! this is not")
